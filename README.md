@@ -7,21 +7,21 @@
 ## 🏆 About Me
 
 ```yaml
-name: "Your Name"
+name: "Sarvarbek"
 role: "Full-Stack Developer | AI Enthusiast"
-experience: "5+ Years"
+experience: "2+ Years"
 skills:
   - Python
   - JavaScript
   - Node.js
-  - C++
-  - Dart
-  - Kotlin
+  - TypeScript
+  - Django
+  - Express
   - NestJS
-  - Vue.js
+  - Expo
+  - Vue
   - TailwindCSS
 interests:
-  - Algorithmic Trading
   - AI & Machine Learning
   - Web & Mobile Development
   - Cybersecurity
@@ -67,8 +67,8 @@ philosophy: "Clean code, best practices, and continuous learning"
 ## 📈 Stats & Contributions
 
 ```md
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SarvarbekUzProg&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SarvarbekUzProg&layout=compact&theme=dark)
 ```
 
 ---
@@ -77,9 +77,8 @@ philosophy: "Clean code, best practices, and continuous learning"
 
 ```yaml
 website: "Coming Soon"
-email: "your-email@example.com"
-linkedin: "linkedin.com/in/yourprofile"
-twitter: "twitter.com/yourhandle"
+email: "SarvarbekAminovoff@gmail.com"
+telegram: "t.me/aSarvarbek"
 ```
 
 Let's collaborate and create something extraordinary! 🚀
