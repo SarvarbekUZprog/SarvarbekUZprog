@@ -82,9 +82,3 @@ telegram: "t.me/aSarvarbek"
 ```
 
 Let's collaborate and create something extraordinary! 🚀
-
-
-### 🐍 GitHub Activity Snake
-
-![GitHub Snake](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
-
